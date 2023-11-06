@@ -3,7 +3,7 @@
 
 ## This is a window to my Soul(or some of it anyway)
 <div align="center">
-<img height="394" width="700" alt="png" align="center" src="https://github.com/Amazigh-coder/Ait-Cherif-M-hand/blob/main/wallpaperflare.com_wallpaper.png)https://github.com/Amazigh-coder/Ait-Cherif-M-hand/blob/main/wallpaperflare.com_wallpaper.png">
+<img height="394" width="700" alt="png" align="center" src="https://github.com/Amazigh-coder/Ait-Cherif-M-hand/blob/main/wallpaperflare.com_wallpaper.png">
 </div>
 
 </br>
