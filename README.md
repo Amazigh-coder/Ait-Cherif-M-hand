@@ -7,5 +7,19 @@
 </div>
 
 </br>
-#About Me
+
+# About Me
+<div>
+<img hight="400" width="500" alt="png" align="right" src="https://github.com/Amazigh-coder/Ait-Cherif-M-hand/blob/main/400px-CNBT-30.png">
+<ul>
+  <li></li>
+  <li>I love anime,video games,cinema,stories of any kind really</li>
+  <li>Taekwondo,Chess and Football Lover</li>
+  <li></li>
+</ul>
+  </div>
+
+  
+# Contact
+
 
